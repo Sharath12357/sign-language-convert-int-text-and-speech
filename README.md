@@ -23,7 +23,7 @@ Installation and Setup
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/sign-language-to-text-and-speech.git  
+[git clone https://github.com/yourusername/sign-language-to-text-and-speech.git  ](https://github.com/Sharath12357/sign-language-convert-int-text-and-speech/)
 Navigate to the project directory:
 bash
 Copy code
